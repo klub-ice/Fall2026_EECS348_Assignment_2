@@ -8,16 +8,16 @@ Purpose: Sort emails in order of priorty with the ability to call the most impor
 Collaborators: Copilot, Claude, EECS 348 notes and slides, EECS 388 notes and slides
 */
 
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
+#include <stdio.h> // imports the stdio header
+#include <stdlib.h> // imports the stdlib header
+#include <string.h> // bring in the string header
 
 /* ------------------------------------------------------------------ */
 /* Data structures                                                     */
 /* ------------------------------------------------------------------ */
 
-#define MAX_LINE 512
-#define MAX_FIELD 256
+#define MAX_LINE 512 // declares a MAX_LINE varible and initilzes to 512
+#define MAX_FIELD 256 //
 #define INITIAL_CAPACITY 8
 
 /* One email in the inbox. */
