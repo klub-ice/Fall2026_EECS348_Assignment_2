@@ -17,8 +17,8 @@ Collaborators: Copilot, Claude, EECS 348 notes and slides, EECS 388 notes and sl
 /* ------------------------------------------------------------------ */
 
 #define MAX_LINE 512 // declares a MAX_LINE varible and initilzes to 512
-#define MAX_FIELD 256 //
-#define INITIAL_CAPACITY 8
+#define MAX_FIELD 256 // declares a MAX_FIELD var and initilizes to 256
+#define INITIAL_CAPACITY 8 //
 
 /* One email in the inbox. */
 typedef struct {
