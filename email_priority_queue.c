@@ -2,7 +2,8 @@
 EECS 348 Assignment 2
 Author: Zoey Spies
 KUID: 3136594
-Date: 9/17/2026
+Creation Date: 9/17/2026
+Revision date: 9/17/2026
 Purpose: Sort emails in order of priorty with the ability to call the most important emails off the heap as needed
 Collaborators: Copilot, Claude, EECS 348 notes and slides, EECS 388 notes and slides
 */
